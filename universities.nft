@@ -166,6 +166,8 @@ define universities_v4 = {
 	# Esslingen University
 	66.240.192.82,
 	66.240.192.83,
+	# Hasso Plattner Institute
+	148.72.152.210,
 }
 
 define universities_v6 = {
