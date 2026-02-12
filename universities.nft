@@ -168,6 +168,8 @@ define universities_v4 = {
 	66.240.192.83,
 	# Hasso Plattner Institute
 	148.72.152.210,
+	# Polytechnic University of Milan
+	131.175.55.101,
 }
 
 define universities_v6 = {

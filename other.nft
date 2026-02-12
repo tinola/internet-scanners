@@ -58,6 +58,8 @@ define other_v4 = {
 	64.227.10.52,
 	64.227.18.98,
 	68.183.16.131,
+	# BarkScan / barkscan.com [no PTR]
+	185.107.80.93,
 }
 
 define other_v6 = {
