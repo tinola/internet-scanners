@@ -53,6 +53,7 @@ List currently contains data for the following organizations:
 - pocnroll (pocnroll.com)
 - ProbeTheNet Project / mThreat Technology Inc. (probethenet.com)
 - Rapid7 Project Sonar (rapid7.com)
+- Recorded Future / SecurityTrails (securitytrails.com)
 - Recyber (recyber.net)
 - Research Scanner (research-scanner.com)
 - Scanopticon (scanopticon.com)

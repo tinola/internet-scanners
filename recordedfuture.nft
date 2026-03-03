@@ -1,0 +1,13 @@
+# Recorded Future / SecurityTrails (securitytrails.com)
+# PTR: ends with crawl.securitytrails.com
+# User-Agent: RecordedFuture Global Inventory Crawler
+# X-Scanned-By: RecordedFuture-Global Inventory
+
+define recordedfuture_v4 = {
+    13.219.121.241,
+    18.235.110.182,
+    3.233.59.216,
+    54.86.115.253,
+    98.84.1.175,
+    98.88.137.2,
+}

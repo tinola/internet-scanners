@@ -28,6 +28,9 @@ define other_v4 = {
 	78.159.130.8,
 	# "scan.f6.security"
 	176.32.195.85,
+	45.91.64.6,
+	45.91.64.7,
+	45.91.64.8,
 	46.161.50.108,
 	5.101.64.6,
 	95.215.0.144,
@@ -54,12 +57,20 @@ define other_v4 = {
 	216.31.13.41,
 	216.31.13.42,
 	# Internet Scanning Project / internetresearch.center
+	159.65.237.176,
 	24.144.104.6,
 	64.227.10.52,
+	64.227.11.241,
 	64.227.18.98,
 	68.183.16.131,
 	# BarkScan / barkscan.com [no PTR]
 	185.107.80.93,
+	# etl.hu research scanner [no PTR]
+	195.228.45.175,
+	# TelcoScan [no PTR]
+	172.104.128.26,
+	172.105.36.32,
+	194.195.253.7,
 }
 
 define other_v6 = {
