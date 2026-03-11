@@ -1,0 +1,6 @@
+# Root Evidence (rootevidence.com)
+# PTR: rootevidence.com
+
+define rootevidence_v4 = {
+    71.6.235.0/24,
+}

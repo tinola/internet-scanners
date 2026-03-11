@@ -7,23 +7,24 @@ The data is provided in the following formats:
 
 List currently contains data for the following organizations:
 - 360 Quake (quake.360.net)
-- A10 Networks (a10protects.com/a10networks.com)
+- A10 Networks (a10protects.com / a10networks.com)
 - Academy for Internet Research (academyforinternetresearch.org)
 - Adscore (adscore.com)
 - Alpha Strike Labs (alphastrike.io)
-- BinaryEdge (binaryedge.io/binaryedge.ninja)
+- BinaryEdge (binaryedge.io / binaryedge.ninja)
 - BitSight Technologies Inc. / Internet Census Group (bitsight.com / internet-census.org)
 - bufferover.run / erbbysam (bufferover.run)
-- Censys (censys.io/censys.com/censys-scanner.com)
-- Criminal IP (criminalip.com)
+- Censys (censys.io / censys.com / censys-scanner.com)
+- Criminal IP / AiSpera (criminalip.com / aispera.com)
 - CrowdStrike Falcon Surface (crowdstrike.com)
 - CyberCube (cybcube.com)
 - CyberGreen Institute (cybergreen.net)
+- CyberOK (cyberok.ru)
 - CyberResilience (cyberresilience.io)
 - Cyble ODIN (odin.io)
 - Cypex (cypex.ai)
 - Dataplane.org (dataplane.org)
-- Driftnet (driftnet.io/internet-measurement.com)
+- Driftnet (driftnet.io / internet-measurement.com, previously cyber.casa)
 - Edgewatch Security Intelligence (edgewatch.com)
 - ESET Research (eset.com)
 - FOFA Search Engine (fofa.info)
@@ -56,6 +57,7 @@ List currently contains data for the following organizations:
 - Recorded Future / SecurityTrails (securitytrails.com)
 - Recyber (recyber.net)
 - Research Scanner (research-scanner.com)
+- Root Evidence (rootevidence.com)
 - Scanopticon (scanopticon.com)
 - securityresearch.net
 - Shadowforce / Baffin Bay Networks Data Acquisition and Threat Research (shadowforce.io / baffinbay.com / baffinaybaynetworks.com)
@@ -64,6 +66,7 @@ List currently contains data for the following organizations:
 - Tenable ASM (tenable.com / tenable.io)
 - The Shadowserver Foundation (shadowserver.org)
 - VisionHeight (visionheight.com)
+- XMCO Serenety (xmco.fr)
 - ZoomEye (zoomeye.ai)
 
 The `other` file contains scanners that do not belong to any specific organization.
@@ -72,10 +75,12 @@ In addition, scanners from the following educational institutions are also inclu
 - Cambridge Cybercrime Centre
 - Esslingen University
 - Georgia Institute of Technology
+- Hasso Plattner Institute
 - KU Leuven
 - Louisiana State University
 - Max Planck Institute for Informatics
 - Paderborn University
+- Polytechnic University of Milan
 - Ruhr University Bochum
 - RWTH Aachen University
 - Stanford University
@@ -91,5 +96,6 @@ In addition, scanners from the following educational institutions are also inclu
 - University of Michigan
 - University of Southern California
 - University of Twente
+- University of Vienna
 - USC/ISI
 - Virginia Tech

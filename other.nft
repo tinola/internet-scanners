@@ -71,6 +71,11 @@ define other_v4 = {
 	172.104.128.26,
 	172.105.36.32,
 	194.195.253.7,
+	# scanner.craftprobe.lv Minecraft server scanning
+	5.161.43.60,
+	# Internet Telemetry & Mapping Project @ matalab.de [no PTR]
+	193.227.109.29,
+	193.227.109.72,
 }
 
 define other_v6 = {

@@ -1,4 +1,4 @@
-# Censys (censys.io/censys.com/censys-scanner.com)
+# Censys (censys.io / censys.com /censys-scanner.com)
 # User-Agent: Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
 # PTR: Mix of generic/no PTR and ones that end with censys-scanner.com
 # Source: Filtered from https://docs.censys.com/docs/opt-out-of-data-collection
