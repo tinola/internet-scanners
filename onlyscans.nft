@@ -1,5 +1,5 @@
 # ONLYSCANS (onlyscans.com)
-# Does not identify via PTR!
+# PTR: Mix of generic/no PTR and ones that end with scanners.onlyscans.net
 # User-Agent: Mozilla/OnlyScans (optout@onlyscans.com)
 # User-Agent: Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);
 
@@ -61,6 +61,7 @@ define onlyscans_v4 = {
 	170.64.221.230,
 	170.64.229.132,
 	172.105.176.44,
+	172.236.185.126,
 	172.239.170.144,
 	174.138.6.31,
 	178.128.33.21,
@@ -92,6 +93,7 @@ define onlyscans_v4 = {
 	68.183.8.140,
 	68.183.90.76,
 	68.183.93.129,
+	68.69.177.101,
 	74.235.121.66,
 	89.167.64.136,
 	89.167.7.17,
