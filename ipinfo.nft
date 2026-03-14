@@ -1,5 +1,5 @@
 # IPinfo Internet Census Data Collection (ipinfo.io)
-# PTR: Mix of generic/no PTR and ones that end with ipinfo.io/other TLDs
+# PTR: Mix of generic/no PTR and ones that end with ipinfo.io / other TLDs
 # Note: These IPs change often.
 # IP Redirect to https://ipinfo.io/census (not always!)
 # Performs HTTP scans using standard zgrab/0.x User-Agent

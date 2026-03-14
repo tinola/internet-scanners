@@ -67,6 +67,7 @@ List currently contains data for the following organizations:
 - The Shadowserver Foundation (shadowserver.org)
 - VisionHeight (visionheight.com)
 - XMCO Serenety (xmco.fr)
+- ZERN (zern.io)
 - ZoomEye (zoomeye.ai)
 
 The `other` file contains scanners that do not belong to any specific organization.
