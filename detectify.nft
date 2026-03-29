@@ -1,0 +1,18 @@
+# Detectify (detectify.com)
+# PTR: Mix of generic/no PTR and scanner.detectify.com
+# Source: https://support.detectify.com/support/solutions/articles/48001049001-how-do-i-allow-detectify-to-scan-my-assets-
+# User-Agent: Mozilla/5.0 (compatible; Detectify)
+
+define detectify_v4 = {
+    107.20.158.220,
+    13.126.5.12,
+    3.234.180.95,
+    3.7.157.159,
+    3.7.173.162,
+    34.234.177.119,
+    52.17.9.21,
+    52.17.98.131,
+    52.208.235.127,
+    54.73.182.190,
+    63.32.130.39,
+}
