@@ -69,6 +69,11 @@ List currently contains data for the following organizations:
 - ZERN (zern.io)
 - ZoomEye (zoomeye.ai)
 
+The following scanning projects appear to have become defunct since they were initially tracked in this repository, the latest data snapshot from when they were still considered active is kept in the `inactive` folder for archival purposes:
+- HSPO (hspo.io)
+- netsecscan.net
+- Scanopticon (scanopticon.com)
+
 The `other` file contains scanners that do not belong to any specific organization.
 
 In addition, scanners from the following educational institutions are also included:
