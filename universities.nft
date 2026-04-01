@@ -90,6 +90,7 @@ define universities_v4 = {
 	141.76.94.16,
 	141.76.94.17,
 	141.76.94.18,
+	141.76.94.31,
 	# RWTH Aachen University
 	137.226.113.0/26,
 	# University of Michigan
