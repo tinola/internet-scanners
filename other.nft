@@ -12,8 +12,6 @@ define other_v4 = {
 	160.25.104.201,
 	# "matscan" Minecraft server scanning [no PTR]
 	51.15.34.47,
-	51.15.55.227,
-	92.119.164.120,
 	# hilbert-mapper-icmp.b621.net
 	185.230.223.46,
 	# tamiza.es Port Scanning Notice [no PTR]
@@ -40,7 +38,7 @@ define other_v4 = {
 	202.112.47.54,
 	# "202.112.47.150 for research"
 	202.112.47.150,
-	# ip-whois-crawler.ipgeolocation.io
+	# ip-whois-crawler.ipgeolocation.io [no PTR]
 	176.9.9.142,
 	# "slowstack.tv" Minecraft server scanning [no PTR]
 	51.159.149.103,
