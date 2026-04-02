@@ -81,6 +81,8 @@ define other_v4 = {
 	51.68.38.150,
 	# mcscans Minecraft server scanning [no PTR]
 	87.121.84.28,
+	# minecraftserversearch.com Minecraft server scanning [no PTR]
+	161.97.66.69,
 }
 
 define other_v6 = {
