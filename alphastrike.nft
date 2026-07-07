@@ -1,9 +1,13 @@
 # Alpha Strike Labs (alphastrike.io)
 # Does not identify via PTR!
-# Source: Ranges assigned to "Alpha Strike Labs GmbH"
+# Source: AS42969 Alpha Strike Labs GmbH
+# Source: AS208843 Alpha Strike Labs GmbH
 
 define alphastrike_v4 = {
+	158.94.187.0/24,
+	158.94.218.0/24,
 	194.187.176.0/22,
+	194.187.179.0/24,
 	45.83.64.0/22,
 }
 

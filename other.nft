@@ -29,10 +29,11 @@ define other_v4 = {
 	45.91.64.6,
 	45.91.64.7,
 	45.91.64.8,
-	46.161.50.109,
 	46.161.50.108,
+	46.161.50.109,
 	5.101.64.6,
 	95.215.0.144,
+	95.215.0.145,
 	# lumeweaver.com
 	192.3.138.26,
 	# "202.112.47.54 for research"
@@ -55,6 +56,8 @@ define other_v4 = {
 	# NTP Research at Team Cymru [no PTR]
 	216.31.0.17,
 	# Internet Scanning Project / internetresearch.center
+	157.230.220.136,
+	159.223.179.74,
 	159.65.237.176,
 	24.144.104.6,
 	64.227.10.52,
